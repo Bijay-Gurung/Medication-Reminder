@@ -11,8 +11,6 @@ A simple, intuitive, and effective Flutter application to help users remember to
 - **Local Storage**: `hive`, `hive_flutter`
 - **Notifications**: `awesome_notifications`
 - **Time Management**: `timezone`, `flutter_timezone`
-## 📱 Screenshots
-*(Add screenshots of the Home Screen and the Details Screen here)*
 ## ⚙️ Getting Started
 Follow these steps to run the project locally on your machine.
 ### Prerequisites
